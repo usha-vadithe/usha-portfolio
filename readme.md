@@ -8,8 +8,7 @@ It is designed to showcase my:
 - Resume
 - Contact information
 
-Live Preview (optional): [https://usha-portfolio.netlify.app](https://usha-portfolio.netlify.app)  
-➡️ *(Replace with your actual link if hosted online)*
+Live Preview : [https://usha-portfolio.netlify.app](https://dapper-sprinkles-6a66b2.netlify.app/)
 
 ---
 
@@ -54,7 +53,7 @@ usha-portfolio/
 ### 3. **Projects**
 Includes 3 major projects:
 - **AWS WordPress Hosting:** EC2 + RDS setup with Apache & MySQL
-- **Cloud Security Monitoring:** Built with AWS IAM, S3, and CloudWatch
+- **vpn working cyber security project:** check the vpn working functionality
 - **Vulnerability Scanner:** Django app using Nmap and MySQL for scanning web vulnerabilities
 
 ### 4. **Contact**
@@ -93,5 +92,7 @@ Mentor/Organization: CODETOWN EDTECH Pvt. Ltd.
 ✅ Complete project zip (usha-portfolio.zip)
 
 ✅ Screenshots (mobile + desktop)
+
+Github link=https://github.com/usha-vadithe/usha-portfolio/
 
 ✅ This README file
