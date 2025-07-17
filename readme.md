@@ -16,15 +16,22 @@ Live Preview : [https://usha-portfolio.netlify.app](https://dapper-sprinkles-6a6
 
 usha-portfolio/
 ├── index.html
+|--screnshorts
+| |--desktopview.jpg
+  |--mobileview1.jpg
+  |--mobileview2.jpg
+  |--desktopview1.jpg
+|
 ├── images/
 │ ├── profile.jpg
 │ ├── aws-wordpress.jpg
-│ ├── project2.jpg
-│ └── project3.jpg
+│ ├── vpn.jpg
+│ └── vulnerability.jpg
 ├── assets/
 │ └── usha_resume.pdf
 ├── README.md
-
+|--tailwind-portfolio.zip
+|
 ---
 
 ## 🔧 Technologies Used
